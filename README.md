@@ -24,8 +24,10 @@ TAKING ATTENDANCE:
 ![4](https://user-images.githubusercontent.com/92314569/213887348-ade32790-32c4-453b-8128-70c622e0d0cb.jpg)
 
 
-SHOWIN![5](https://user-images.githubusercontent.com/92314569/213887404-bb2e75b9-737c-476e-9038-d853dc2cb681.jpg)
-G ATTENDANCE TAKEN:
+SHOWING ATTENDANCE TAKEN:
+
+![5](https://user-images.githubusercontent.com/92314569/213887404-bb2e75b9-737c-476e-9038-d853dc2cb681.jpg)
+
 
 
 HELP OPTION IN MENUBAR:
